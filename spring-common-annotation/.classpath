@@ -2,5 +2,11 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/jar/spring-context-5.1.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/jar/spring-beans-5.1.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/jar/spring-core-5.1.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/jar/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="G:/jar/spring-expression-5.1.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/jar/spring-aop-5.1.11.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
